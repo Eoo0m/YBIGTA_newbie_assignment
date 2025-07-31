@@ -1,0 +1,17 @@
+# 푼 문제만 기입하셔도 됩니다.
+# 형식: <문제번호> <제출 링크>
+
+1260 https://www.acmicpc.net/status?user_id=jseom818&problem_id=1260&from_mine=1
+
+2164 https://www.acmicpc.net/status?user_id=jseom818&problem_id=2164&from_mine=1
+11866 https://www.acmicpc.net/status?user_id=jseom818&problem_id=11866&from_mine=1
+
+1629 https://www.acmicpc.net/status?user_id=jseom818&problem_id=1629&from_mine=1
+10830 https://www.acmicpc.net/status?user_id=jseom818&problem_id=10830&from_mine=1
+
+3080 
+5670 
+
+2243 
+3653 
+17408

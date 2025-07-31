@@ -1,0 +1,9 @@
+*.zip
+*.pt
+*.h5
+*.ckpt
+*.pkl
+*.tar
+*.npz
+*.DS_Store
+!*/.keep
